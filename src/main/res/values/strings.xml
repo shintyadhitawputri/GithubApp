@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="username">Username</string>
+    <string name="search_hint">Insert Username</string>
+    <string name="search">Search</string>
+    <string name="search_not_found">Username Not Found</string>
+
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="number_followers">123s</string>
+    <string name="number_following">321g</string>
+    <string name="datausername">Username</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="favoriteUser">Favorite</string>
+    <string name="menuPref">Preference Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="share">Share Profile</string>
+    <string name="button">Favorite User</string>
+    <string name="shareprof">Share User</string>
+    <string name="tablayout">This is Tab Layout</string>
+</resources>
